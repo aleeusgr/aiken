@@ -2,6 +2,14 @@
 
 ## v1.0.27-alpha - unreleased
 
+### TODO 
+
+- [ ] The --version option on aiken add is optional;
+- [ ] verify that a given repository / project exists when adding it.
+- [ ] Add a aiken remove command to remove a dependency
+- [ ]  aiken package upgrade should fail with a proper error when trying to upgrade a non-existing package
+- [ ]  Support more providers than Github
+
 ### Added
 
 - **aiken-lsp**: hover and goto definition support on list tail. @rvcas
